@@ -22,21 +22,21 @@ OpenRAP is an exhilarating open-source project designed to revolutionize remote 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/OpenRAP.git
-   cd OpenRAP
 	```bash
+	git clone https://github.com/yourusername/OpenRAP.git
+	cd OpenRAP
+	```
 2.	Build and run the ASP.NET Core backend:
 
 	```bash
 	cd src/OpenRAP.Server
 	dotnet run
-	```bash
+	```
 3. Build and run the Blazor frontend:
 	```bash
 	cd ../OpenRAP.Client
 	dotnet run
-	```bash
+	```
 4. Explore the exciting world of OpenRAP!
 
 ### Configuration
