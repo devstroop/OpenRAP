@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.0.0
+MinimumVisualStudioVersion = 17.0.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenRAP.Server", "Server\OpenRAP.Server.csproj", "{098DEDD5-B2FB-4916-8EB7-A6515E14F232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenRAP.Client", "Client\OpenRAP.Client.csproj", "{85E5B76F-4ABF-40DE-93FA-453E80CB4AFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0E27FFE6-5374-4066-8683-76C24D824F7E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098DEDD5-B2FB-4916-8EB7-A6515E14F232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098DEDD5-B2FB-4916-8EB7-A6515E14F232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098DEDD5-B2FB-4916-8EB7-A6515E14F232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098DEDD5-B2FB-4916-8EB7-A6515E14F232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E5B76F-4ABF-40DE-93FA-453E80CB4AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E5B76F-4ABF-40DE-93FA-453E80CB4AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E5B76F-4ABF-40DE-93FA-453E80CB4AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E5B76F-4ABF-40DE-93FA-453E80CB4AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9C026B-FAF1-4A74-B639-86E2C4EEC245}
+	EndGlobalSection
+EndGlobal
